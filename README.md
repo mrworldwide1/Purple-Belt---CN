@@ -1,3 +1,3 @@
-# Purple-Belt---CN
+# Purple Belt - CN
 
-Unity games I completed for Purple Belt
+Completed games in Unity, for purple belt
